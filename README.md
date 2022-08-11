@@ -1,0 +1,2 @@
+This is a simple Django allauth website created with the help of Django Allauth which is an integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+It has basic features of user authentication . It has functionality of Oauth using Google and Github. After the user is logged in, the user's email, username is displayed on a the profile page. If the user is unauthenticated then appropriate message is shown and login page is shown.
